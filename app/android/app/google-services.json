@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483211573703",
+    "firebase_url": "https://danews-37e26.firebaseio.com",
+    "project_id": "danews-37e26",
+    "storage_bucket": "danews-37e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483211573703:android:c0c62442749f9509c201e2",
+        "android_client_info": {
+          "package_name": "com.whatsnews.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483211573703-a0je9d14o21n6p5gcjoqvvs5vff97vfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtkUnnEllzrP72pSSQfjWAk4TKWD4xaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483211573703-a0je9d14o21n6p5gcjoqvvs5vff97vfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
